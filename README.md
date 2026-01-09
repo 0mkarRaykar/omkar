@@ -1,15 +1,76 @@
-# 💫 About Me:
-👋 Full Stack Developer skilled in the MERN stack (MongoDB, Express, React, Node.js).<br>💡 Passionate about building scalable apps and solving complex problems.<br>🚀 Experienced in both frontend and backend development.<br>🌱 Currently learning microservices, cloud computing, and advanced React features.<br>🎯 Excited to work on mission-driven projects with small, dynamic teams.
+# Hi, I’m Omkar 👋
 
+I’m a full-stack JavaScript engineer who focuses on building systems that stay correct and maintainable as requirements change.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0mkarraykar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0mkarraykar&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0mkarraykar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Most of my experience comes from working on production applications where code doesn’t end at delivery. I’ve spent more time fixing assumptions, tightening data flows, and refactoring logic than chasing shiny abstractions. I enjoy that part of the work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0mkarraykar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## How I Approach Engineering
+
+- I assume requirements will change and write code defensively.
+- I treat authentication, permissions, and data integrity as systems, not features.
+- I optimize for clarity first, performance second, and cleverness last.
+- I refactor when I wouldn’t trust myself to maintain the code six months later.
+- I care about what breaks after a feature ships, not just whether it works today.
+
+---
+
+## What I’ve Worked On
+
+I’ve built and maintained full-stack applications using React, Node.js, and MongoDB, including:
+
+- Backend APIs with authentication and role-based access
+- Data models that had to evolve without breaking existing workflows
+- Frontend systems tied closely to real user behavior and API constraints
+- Integrations where frontend, backend, and deployment decisions affected each other
+
+Most of this work involved improving existing systems rather than starting from scratch.
+
+---
+
+## Technical Foundation
+
+**Languages**
+- JavaScript (ES6+), HTML, CSS
+
+**Frontend**
+- React, Next.js
+- State management (Context, Redux-style patterns)
+- Performance and UI consistency
+
+**Backend**
+- Node.js, Express
+- REST APIs, authentication, validation, error handling
+
+**Data & Tooling**
+- MongoDB, SQL basics
+- Git, Docker
+- CI workflows and deployment fundamentals
+
+(These are tools I use, not my identity.)
+
+---
+
+## What I’m Optimizing For Next
+
+- Deeper backend ownership and system design
+- Better observability and reliability in production systems
+- Stronger frontend performance and UX consistency
+- Writing less code that does more work
+
+---
+
+## How to Evaluate My Work
+
+I don’t maintain a polished portfolio site yet.  
+The best way to evaluate my fit is by:
+- Reviewing real code in my repositories
+- Discussing design decisions and tradeoffs
+- Or working through a small, real problem together
+
+I’m comfortable being evaluated on actual work rather than presentation.
+
+---
+
+Thanks for stopping by.
